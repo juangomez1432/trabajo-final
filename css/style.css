@@ -1,0 +1,148 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: #A1FFCE;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #FAFFD1, #A1FFCE);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #FAFFD1, #A1FFCE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+      
+}
+.header1{
+    padding: 100px;
+    color: rgb(21, 22, 22);
+    text-align: center;
+    font-size: 50px;
+    background: #5f4c58;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #a57e9f, #895576);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #a189c4, #a26e8f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.header2 {
+  padding: 100px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 50px;
+}
+
+div{
+    padding: 100px;
+    
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.decoracion-letra {
+  display: inline-block;
+  font-size: 30px; 
+  font-weight: bold; 
+  color: #080808;
+  padding: 10px;
+  
+}
+
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 1px 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.logo {
+  font-size: 1.5rem;
+}
+
+.nav-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-links li {
+  margin-left: 20px;
+}
+
+.nav-links li a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.nav-links li a:hover {
+  color: #00bcd4;
+}
+
+section{
+    padding: 100px;
+}
+
+footer{
+    padding: 10px;
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+}
+
+img{
+    border-radius: 10%;
+    
+}
+
+.horizontal{
+    display: flex;
+}
+
+.card {
+    width: 500px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-right: 20px; 
+    text-align: center;
+  }
+  
+  .card img {
+    width: 200px;
+    height: auto;
+  }
+  
+  .card-content {
+    padding: 20px;
+    text-align: center;
+    font-size: 25px; 
+  font-weight: bold; 
+
+  }
+  
+  .card-content h2 {
+    margin-top: 0;
+  }
+  
+  .card-content p {
+    margin-bottom: 10px;
+  }
+  
+  .card-content a {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+
+
+  
+  

@@ -1,0 +1,26 @@
+.product-list {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .product {
+    border: 1px solid #525252;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .cart {
+    border: 1px solid #383838;
+    padding: 10px;
+  }
+  
+  .cart h2 {
+    margin-top: 0;
+  }
+img{
+    width: 300px;
+    height: auto;
+}
+  
